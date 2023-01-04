@@ -204,7 +204,7 @@ if __name__ == "__main__":
         if file.endswith(".meta.tsv"):
             file_name = ".".join(file.split(".")[:-2])
 
-            # check if all files for file exist
+            # Check if all files for file exist
             if not sum(check_if_file_exist(p) for p in [os.path.join(args.path, file_name + '.speaker.tsv'),
                                                         os.path.join(args.path, file_name + '.tsv')]):
                 check_file(file_name)
