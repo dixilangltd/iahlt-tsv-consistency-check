@@ -53,7 +53,7 @@ def get_len_from_meta(name: str) -> timedelta:
 
 
 def check_name_tsv(
-    name: str, len_from_meta: timedelta, speakers: typing.List[str]
+        name: str, len_from_meta: timedelta, speakers: typing.List[str]
 ) -> typing.List[typing.Dict[str, str]]:
     """Check {name}.tsv (1.tsv etc) for bad rows"""
     wrong = []
@@ -190,8 +190,21 @@ def check_file(name: str) -> typing.List[dict]:
     return errors
 
 
+def check_if_file_exist(path: str) -> bool:
+    """Check if file exist"""
+    if os.path.exists(path):
+        return False
+    print(f'DOES NOT EXIST {path}')
+    return True
+
+
 if __name__ == "__main__":
     files = os.listdir(args.path)
     for file in files:
         if file.endswith(".meta.tsv"):
-            check_file(".".join(file.split(".")[:-2]))
+            file_name = ".".join(file.split(".")[:-2])
+
+            # check if all files for file exist
+            if not sum(check_if_file_exist(p) for p in [os.path.join(args.path, file_name + '.speaker.tsv'),
+                                                        os.path.join(args.path, file_name + '.tsv')]):
+                check_file(file_name)
