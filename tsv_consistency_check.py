@@ -41,14 +41,17 @@ def convert_to_timedelta(time: str) -> timedelta:
     )
 
 
-def get_len_from_meta(name: str) -> timedelta:
+def get_len_from_meta(name: str) -> typing.Optional[timedelta]:
     """Get file length from {name}.meta.tsv file"""
     filepath = os.path.join(args.path, f"{name}.meta.tsv")
     with open(filepath, encoding="utf-8") as meta_file:
         lines = list(csv.reader(meta_file, delimiter="\t"))
         time = lines[1][2]
-
-        dt = datetime.datetime.strptime(time, "%H:%M:%S")
+        try:
+            dt = datetime.datetime.strptime(time, "%H:%M:%S")
+        except ValueError:
+            print(f"{filepath} Wrong duration format {time}")
+            return None
         return timedelta(hours=dt.hour, minutes=dt.minute, seconds=dt.second)
 
 
@@ -57,6 +60,15 @@ def check_name_tsv(
 ) -> typing.List[typing.Dict[str, str]]:
     """Check {name}.tsv (1.tsv etc) for bad rows"""
     wrong = []
+
+    if not len_from_meta:
+        wrong += {
+            "filepath": filepath,
+            "line": 1,
+            "error": "No len from meta.tsv",
+            "type": "name_tsv",
+        }
+        return wrong
 
     filepath = os.path.join(args.path, f"{name}.tsv")
 
