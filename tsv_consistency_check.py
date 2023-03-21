@@ -60,17 +60,17 @@ def check_name_tsv(
 ) -> typing.List[typing.Dict[str, str]]:
     """Check {name}.tsv (1.tsv etc) for bad rows"""
     wrong = []
-    filepath = os.path.join(args.path, f"{name}.tsv")
 
-    # Check if len_from_meta != none
     if not len_from_meta:
         wrong += {
             "filepath": filepath,
-            "line": 0,
-            "error": "Can't parse len from meta.tsv",
+            "line": 1,
+            "error": "No len from meta.tsv",
             "type": "name_tsv",
         }
         return wrong
+
+    filepath = os.path.join(args.path, f"{name}.tsv")
 
     with open(filepath, encoding="utf-8") as tsv_file:
         name_tsv = csv.reader(tsv_file, delimiter="\t")
@@ -145,8 +145,7 @@ def check_name_tsv(
                 }
                 print(
                     f"{filepath}.{line}: name_tsv duration missmatch "
-                    f"{end_from_tsv} - {start_from_tsv} != {duration_from_tsv} "
-                    f"(diff: {((end_from_tsv - start_from_tsv) - duration_from_tsv).total_seconds()}s) "
+                    f"{end_from_tsv} - {start_from_tsv} != {duration_from_tsv} (diff: {((end_from_tsv - start_from_tsv) - duration_from_tsv).total_seconds()}s)"
                 )
 
             # check if speaker not in speakers.tsv
