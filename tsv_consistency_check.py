@@ -18,6 +18,7 @@ import datetime
 import typing
 import csv
 import os
+import re
 
 
 def dir_path(string):
@@ -56,21 +57,21 @@ def get_len_from_meta(name: str) -> typing.Optional[timedelta]:
 
 
 def check_name_tsv(
-        name: str, len_from_meta: timedelta, speakers: typing.List[str]
+    name: str, len_from_meta: timedelta, speakers: typing.List[str]
 ) -> typing.List[typing.Dict[str, str]]:
     """Check {name}.tsv (1.tsv etc) for bad rows"""
     wrong = []
+    filepath = os.path.join(args.path, f"{name}.tsv")
 
+    # Check if len_from_meta != none
     if not len_from_meta:
         wrong += {
             "filepath": filepath,
-            "line": 1,
-            "error": "No len from meta.tsv",
+            "line": 0,
+            "error": "Can't parse len from meta.tsv",
             "type": "name_tsv",
         }
         return wrong
-
-    filepath = os.path.join(args.path, f"{name}.tsv")
 
     with open(filepath, encoding="utf-8") as tsv_file:
         name_tsv = csv.reader(tsv_file, delimiter="\t")
@@ -78,7 +79,7 @@ def check_name_tsv(
             line += 2  # first line is header
 
             # check line format
-            if len(row) != 4 or not row[-1]:
+            if len(row) != 4:
                 wrong += {
                     "filepath": filepath,
                     "line": line,
@@ -86,6 +87,25 @@ def check_name_tsv(
                     "type": "name_tsv",
                 }
                 print(f"{filepath}.{line}: name_tsv wrong line format {len(row)}")
+                continue
+
+            #   Check time format
+            pattern = (
+                r"^([0-9]|[0-5][0-9]):([0-9]|[0-5][0-9]):([0-9]|[0-5][0-9]):([0-9]|[0-9][0-9])\s-\s"
+                r"([0-9]|[0-5][0-9]):([0-9]|[0-5][0-9]):([0-9]|[0-5][0-9]):([0-9]|[0-9][0-9])$"
+            )
+            if not re.match(pattern, row[0]):
+                wrong += {
+                    "filepath": filepath,
+                    "line": line,
+                    "error": 'wrong first column format, don\'t match "00:00:00:00 - 00:00:00:00"',
+                    "type": "name_tsv",
+                }
+                print(
+                    f"{filepath}.{line}: wrong first column format, "
+                    f'"{row[0]}" don\'t match "00:00:00:00 - 00:00:00:00"'
+                )
+                continue
 
             try:
                 # convert times to timedelta
@@ -99,7 +119,9 @@ def check_name_tsv(
                     "error": "error while parsing time format, time format error",
                     "type": "name_tsv",
                 }
-                print(f"{filepath}.{line}: name_tsv error while parsing time format, time format error")
+                print(
+                    f"{filepath}.{line}: name_tsv error while parsing time format, time format error"
+                )
                 continue
 
             # check if end bigger than file length
@@ -110,7 +132,9 @@ def check_name_tsv(
                     "error": "end bigger than file length",
                     "type": "name_tsv",
                 }
-                print(f"{filepath}.{line}: name_tsv end bigger than file length. {end_from_tsv} > {len_from_meta}")
+                print(
+                    f"{filepath}.{line}: name_tsv end bigger than file length. {end_from_tsv} > {len_from_meta}"
+                )
 
             # check if start bigger than file length
             if start_from_tsv > len_from_meta + timedelta(milliseconds=500):
@@ -120,7 +144,9 @@ def check_name_tsv(
                     "error": "start bigger than file length",
                     "type": "name_tsv",
                 }
-                print(f"{filepath}.{line}: name_tsv start bigger than file length. {start_from_tsv} > {len_from_meta}")
+                print(
+                    f"{filepath}.{line}: name_tsv start bigger than file length. {start_from_tsv} > {len_from_meta}"
+                )
 
             # check if start bigger than end
             if start_from_tsv > end_from_tsv:
@@ -145,7 +171,8 @@ def check_name_tsv(
                 }
                 print(
                     f"{filepath}.{line}: name_tsv duration missmatch "
-                    f"{end_from_tsv} - {start_from_tsv} != {duration_from_tsv} (diff: {((end_from_tsv - start_from_tsv) - duration_from_tsv).total_seconds()}s)"
+                    f"{end_from_tsv} - {start_from_tsv} != {duration_from_tsv} "
+                    f"(diff: {((end_from_tsv - start_from_tsv) - duration_from_tsv).total_seconds()}s) "
                 )
 
             # check if speaker not in speakers.tsv
@@ -156,7 +183,7 @@ def check_name_tsv(
                     "error": "speaker not in speakers",
                     "type": "name_tsv",
                 }
-                print(f"{filepath}.{line}: name_tsv speaker \"{row[2]}\" not in speakers")
+                print(f'{filepath}.{line}: name_tsv speaker "{row[2]}" not in speakers')
 
     # return dict with all errors from file
     return wrong
@@ -206,7 +233,7 @@ def check_if_file_exist(path: str) -> bool:
     """Check if file exist"""
     if os.path.exists(path):
         return False
-    print(f'DOES NOT EXIST {path}')
+    print(f"DOES NOT EXIST {path}")
     return True
 
 
@@ -217,6 +244,11 @@ if __name__ == "__main__":
             file_name = ".".join(file.split(".")[:-2])
 
             # Check if all files for file exist
-            if not sum(check_if_file_exist(p) for p in [os.path.join(args.path, file_name + '.speaker.tsv'),
-                                                        os.path.join(args.path, file_name + '.tsv')]):
+            if not sum(
+                check_if_file_exist(p)
+                for p in [
+                    os.path.join(args.path, file_name + ".speaker.tsv"),
+                    os.path.join(args.path, file_name + ".tsv"),
+                ]
+            ):
                 check_file(file_name)
