@@ -8,9 +8,9 @@ The access to the data is limited to IAHLT organization members. If you have mem
 
 ## Reports
 
-- [release-2022-12-01/transcription-3/corpus](reports/release-2022-12-01/transcription-3/corpus.txt)
-- [release-2022-12-01/transcription-3/iaa-1](reports/release-2022-12-01/transcription-3/iaa-1.txt)
-- [release-2022-12-01/transcription-3/iaa-2](reports/release-2022-12-01/transcription-3/iaa-2.txt)
+- [release-2022-12-01/transcription-3/](reports/release-2022-12-01/transcription-3/)
+- [release-2023-03-16/transcription-4/](reports/release-2023-03-16/transcription-4/)
+- [release-2023-06-06/transcription-5/](reports/release-2023-06-06/transcription-5/)
 
 ## Usage
 
