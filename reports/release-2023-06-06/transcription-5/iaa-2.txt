@@ -1,0 +1,213 @@
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.2: name_tsv speaker "Speaker 1" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.3: name_tsv duration missmatch 0:00:14.120000 - 0:00:09.210000 != 0:00:04.160000 (diff: 0.75s) 
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.3: name_tsv speaker "Speaker 1" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.4: name_tsv speaker "Speaker 1" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.5: name_tsv speaker "Speaker 1" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.6: name_tsv speaker "Speaker 1" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.7: name_tsv speaker "Speaker 1" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.8: name_tsv duration missmatch 0:00:42.140000 - 0:00:39.220000 != 0:00:02.170000 (diff: 0.75s) 
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.8: name_tsv speaker "Speaker 1" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.9: name_tsv speaker "Speaker 1" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.10: name_tsv speaker "Speaker 1" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.11: name_tsv speaker "" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.12: name_tsv duration missmatch 0:01:06.070000 - 0:01:03.090000 != 0:00:02.230000 (diff: 0.75s) 
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.12: name_tsv speaker "Speaker 1" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.13: name_tsv speaker "Speaker 2" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.14: name_tsv speaker "Speaker 1" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.15: name_tsv duration missmatch 0:01:16.060000 - 0:01:14.130000 != 0:00:01.180000 (diff: 0.75s) 
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.15: name_tsv speaker "Speaker 3" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.16: name_tsv speaker "Speaker 1" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.17: name_tsv duration missmatch 0:01:26.020000 - 0:01:25.030000 != 0:00:00.240000 (diff: 0.75s) 
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.17: name_tsv speaker "Speaker 1" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.18: name_tsv speaker "Speaker 1" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.19: name_tsv speaker "Speaker 1" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.20: name_tsv duration missmatch 0:01:38.050000 - 0:01:36.060000 != 0:00:01.240000 (diff: 0.75s) 
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.20: name_tsv speaker "Speaker 1" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.21: name_tsv duration missmatch 0:02:03 - 0:01:49.120000 != 0:00:13.130000 (diff: 0.75s) 
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.21: name_tsv speaker "Speaker 1" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.22: name_tsv duration missmatch 0:02:10.020000 - 0:02:04.090000 != 0:00:05.180000 (diff: 0.75s) 
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.22: name_tsv speaker "Speaker 1" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.23: name_tsv duration missmatch 0:02:23.130000 - 0:02:12.170000 != 0:00:10.210000 (diff: 0.75s) 
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.23: name_tsv speaker "Speaker 1" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.24: name_tsv duration missmatch 0:02:33.050000 - 0:02:27.240000 != 0:00:05.060000 (diff: 0.75s) 
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.24: name_tsv speaker "Speaker 4" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.25: name_tsv speaker "Speaker 4" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.26: name_tsv speaker "Speaker 4" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.27: name_tsv speaker "Speaker 4" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.28: name_tsv speaker "Speaker 5" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.29: name_tsv duration missmatch 0:02:45.100000 - 0:02:43.230000 != 0:00:01.120000 (diff: 0.75s) 
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.29: name_tsv speaker "Speaker 4" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.30: name_tsv speaker "Speaker 4" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.31: name_tsv duration missmatch 0:02:50 - 0:02:47.220000 != 0:00:02.030000 (diff: 0.75s) 
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.31: name_tsv speaker "Speaker 5" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.32: name_tsv speaker "Speaker 4" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.33: name_tsv duration missmatch 0:03:01.050000 - 0:02:59.110000 != 0:00:01.190000 (diff: 0.75s) 
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.33: name_tsv speaker "Speaker 6" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.34: name_tsv speaker "Speaker 5" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.35: name_tsv speaker "Speaker 7" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.36: name_tsv duration missmatch 0:03:13.080000 - 0:03:06.240000 != 0:00:06.090000 (diff: 0.75s) 
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.36: name_tsv speaker "Speaker 6" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.37: name_tsv duration missmatch 0:03:14.050000 - 0:03:13.080000 != 0:00:00.220000 (diff: 0.75s) 
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.37: name_tsv speaker "Speaker 7" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.38: name_tsv duration missmatch 0:03:40.050000 - 0:03:36.060000 != 0:00:03.240000 (diff: 0.75s) 
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.38: name_tsv speaker "Speaker 4" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.39: name_tsv speaker "Speaker 4" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.40: name_tsv duration missmatch 0:04:07.030000 - 0:04:01.100000 != 0:00:05.180000 (diff: 0.75s) 
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.40: name_tsv speaker "Speaker 4" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.41: name_tsv speaker "Speaker 8" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.42: name_tsv speaker "Speaker 7" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.43: name_tsv duration missmatch 0:04:53.070000 - 0:04:48.240000 != 0:00:04.080000 (diff: 0.75s) 
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.43: name_tsv speaker "Speaker 8" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.44: name_tsv speaker "Speaker 8" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.45: name_tsv duration missmatch 0:04:56.150000 - 0:04:55.240000 != 0:00:00.160000 (diff: 0.75s) 
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.45: name_tsv speaker "Speaker 7" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.46: name_tsv duration missmatch 0:04:57.130000 - 0:04:56.150000 != 0:00:00.230000 (diff: 0.75s) 
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.46: name_tsv speaker "Speaker 8" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.47: name_tsv duration missmatch 0:04:58.130000 - 0:04:57.150000 != 0:00:00.230000 (diff: 0.75s) 
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.47: name_tsv speaker "Speaker 7" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.48: name_tsv duration missmatch 0:05:01.100000 - 0:04:58.170000 != 0:00:02.180000 (diff: 0.75s) 
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.48: name_tsv speaker "Speaker 8" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.49: name_tsv duration missmatch 0:05:03 - 0:05:01.150000 != 0:00:01.100000 (diff: 0.75s) 
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.49: name_tsv speaker "Speaker 8" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.50: name_tsv speaker "Speaker 7" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.51: name_tsv duration missmatch 0:05:05.150000 - 0:05:04.210000 != 0:00:00.190000 (diff: 0.75s) 
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.51: name_tsv speaker "Speaker 8" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.52: name_tsv speaker "Speaker 7" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.53: name_tsv speaker "Speaker 8" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.54: name_tsv speaker "Speaker 7" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.55: name_tsv duration missmatch 0:05:09.030000 - 0:05:08.090000 != 0:00:00.190000 (diff: 0.75s) 
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.55: name_tsv speaker "Speaker 8" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.56: name_tsv speaker "Speaker 7" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.57: name_tsv speaker "Speaker 8" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.58: name_tsv speaker "Speaker 8" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.59: name_tsv speaker "Speaker 1" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.60: name_tsv duration missmatch 0:05:32.070000 - 0:05:27.100000 != 0:00:04.220000 (diff: 0.75s) 
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.60: name_tsv speaker "Speaker 1" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.61: name_tsv speaker "Speaker 1" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.62: name_tsv duration missmatch 0:05:46.170000 - 0:05:39.200000 != 0:00:06.220000 (diff: 0.75s) 
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.62: name_tsv speaker "Speaker 1" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.63: name_tsv speaker "Speaker 9" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.64: name_tsv duration missmatch 0:06:15.080000 - 0:06:11.110000 != 0:00:03.220000 (diff: 0.75s) 
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.64: name_tsv speaker "Speaker 9" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.65: name_tsv speaker "Speaker 9" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.66: name_tsv duration missmatch 0:06:31.080000 - 0:06:28.120000 != 0:00:02.210000 (diff: 0.75s) 
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.66: name_tsv speaker "Speaker 10" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.67: name_tsv speaker "Speaker 9" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.68: name_tsv speaker "Speaker 10" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.69: name_tsv speaker "Speaker 11" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.70: name_tsv duration missmatch 0:06:44.080000 - 0:06:42.200000 != 0:00:01.130000 (diff: 0.75s) 
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.70: name_tsv speaker "Speaker 10" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.71: name_tsv speaker "Speaker 9" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.72: name_tsv duration missmatch 0:06:47.050000 - 0:06:45.090000 != 0:00:01.210000 (diff: 0.75s) 
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.72: name_tsv speaker "Speaker 10" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.73: name_tsv duration missmatch 0:06:51 - 0:06:47.230000 != 0:00:03.020000 (diff: 0.75s) 
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.73: name_tsv speaker "Speaker 11" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.74: name_tsv speaker "Speaker 10" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.75: name_tsv duration missmatch 0:06:58.200000 - 0:06:55.210000 != 0:00:02.240000 (diff: 0.75s) 
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.75: name_tsv speaker "Speaker 10" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.76: name_tsv duration missmatch 0:07:03.010000 - 0:06:58.240000 != 0:00:04.020000 (diff: 0.75s) 
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.76: name_tsv speaker "Speaker 10" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.77: name_tsv speaker "Speaker 1" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.78: name_tsv duration missmatch 0:07:27.120000 - 0:07:17.150000 != 0:00:09.220000 (diff: 0.75s) 
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.78: name_tsv speaker "Speaker 1" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.79: name_tsv speaker "Speaker 1" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.80: name_tsv duration missmatch 0:07:38.100000 - 0:07:35.210000 != 0:00:02.140000 (diff: 0.75s) 
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.80: name_tsv speaker "Speaker 1" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.81: name_tsv duration missmatch 0:07:45.180000 - 0:07:39.220000 != 0:00:05.210000 (diff: 0.75s) 
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.81: name_tsv speaker "Speaker 1" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.82: name_tsv speaker "Speaker 12" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.83: name_tsv duration missmatch 0:07:52.180000 - 0:07:49.190000 != 0:00:02.240000 (diff: 0.75s) 
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.83: name_tsv speaker "Speaker 13" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.84: name_tsv duration missmatch 0:08:00.030000 - 0:07:52.180000 != 0:00:07.100000 (diff: 0.75s) 
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.84: name_tsv speaker "Speaker 12" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.85: name_tsv speaker "Speaker 12" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.86: name_tsv speaker "Speaker 13" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.87: name_tsv speaker "Speaker 12" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.88: name_tsv duration missmatch 0:08:20.050000 - 0:08:17.150000 != 0:00:02.150000 (diff: 0.75s) 
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.88: name_tsv speaker "Speaker 13" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.89: name_tsv duration missmatch 0:08:22.110000 - 0:08:19.230000 != 0:00:02.130000 (diff: 0.75s) 
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.89: name_tsv speaker "Speaker 12" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.90: name_tsv duration missmatch 0:08:25.040000 - 0:08:22.120000 != 0:00:02.170000 (diff: 0.75s) 
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.90: name_tsv speaker "Speaker 13" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.91: name_tsv speaker "Speaker 12" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.92: name_tsv duration missmatch 0:08:31.150000 - 0:08:29.200000 != 0:00:01.200000 (diff: 0.75s) 
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.92: name_tsv speaker "Speaker 13" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.93: name_tsv speaker "Speaker 12" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.94: name_tsv speaker "Speaker 12" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.95: name_tsv duration missmatch 0:09:07.010000 - 0:08:56.140000 != 0:00:10.120000 (diff: 0.75s) 
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.95: name_tsv speaker "Speaker 12" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.96: name_tsv duration missmatch 0:09:24.190000 - 0:09:17.220000 != 0:00:06.220000 (diff: 0.75s) 
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.96: name_tsv speaker "Speaker 12" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.97: name_tsv duration missmatch 0:09:43.180000 - 0:09:37.230000 != 0:00:05.200000 (diff: 0.75s) 
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.97: name_tsv speaker "Speaker 1" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.98: name_tsv speaker "Speaker 1" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.99: name_tsv duration missmatch 0:09:57.070000 - 0:09:53.130000 != 0:00:03.190000 (diff: 0.75s) 
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.99: name_tsv speaker "Speaker 1" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.100: name_tsv duration missmatch 0:10:07.060000 - 0:09:59.090000 != 0:00:07.220000 (diff: 0.75s) 
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.100: name_tsv speaker "Speaker 1" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.101: name_tsv duration missmatch 0:10:13.140000 - 0:10:09.200000 != 0:00:03.190000 (diff: 0.75s) 
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.101: name_tsv speaker "Speaker 1" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.102: name_tsv speaker "Speaker 1" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.103: name_tsv speaker "Speaker 1" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.104: name_tsv speaker "Speaker 1" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.105: name_tsv speaker "Speaker 1" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\1.tsv.106: name_tsv speaker "Speaker 1" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\12.tsv.2: name_tsv speaker "Speaker 1" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\12.tsv.3: name_tsv speaker "Speaker 2" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\12.tsv.4: name_tsv duration missmatch 0:01:08.120000 - 0:00:54.200000 != 0:00:13.170000 (diff: 0.75s) 
+iahlt-release-2023-06-06\transcription-5\iaa-2\12.tsv.4: name_tsv speaker "Speaker 2" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\12.tsv.5: name_tsv speaker "Speaker 2" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\12.tsv.6: name_tsv speaker "Speaker 2" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\12.tsv.7: name_tsv speaker "Speaker 2" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\12.tsv.8: name_tsv duration missmatch 0:01:54.020000 - 0:01:46.200000 != 0:00:07.070000 (diff: 0.75s) 
+iahlt-release-2023-06-06\transcription-5\iaa-2\12.tsv.8: name_tsv speaker "Speaker 1" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\12.tsv.9: name_tsv speaker "Speaker 2" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\12.tsv.10: name_tsv speaker "Speaker 2" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\12.tsv.11: name_tsv duration missmatch 0:02:36.220000 - 0:02:26.230000 != 0:00:09.240000 (diff: 0.75s) 
+iahlt-release-2023-06-06\transcription-5\iaa-2\12.tsv.11: name_tsv speaker "Speaker 2" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\12.tsv.12: name_tsv speaker "Speaker 2" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\12.tsv.13: name_tsv duration missmatch 0:03:12.010000 - 0:03:08.090000 != 0:00:03.170000 (diff: 0.75s) 
+iahlt-release-2023-06-06\transcription-5\iaa-2\12.tsv.13: name_tsv speaker "Speaker 1" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\12.tsv.14: name_tsv speaker "Speaker 2" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\12.tsv.15: name_tsv speaker "Speaker 2" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\12.tsv.16: name_tsv speaker "Speaker 2" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\12.tsv.17: name_tsv duration missmatch 0:03:44.160000 - 0:03:39.220000 != 0:00:04.190000 (diff: 0.75s) 
+iahlt-release-2023-06-06\transcription-5\iaa-2\12.tsv.17: name_tsv speaker "Speaker 1" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\12.tsv.18: name_tsv speaker "Speaker 2" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\12.tsv.19: name_tsv duration missmatch 0:04:10.170000 - 0:03:59.190000 != 0:00:10.230000 (diff: 0.75s) 
+iahlt-release-2023-06-06\transcription-5\iaa-2\12.tsv.19: name_tsv speaker "Speaker 2" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\12.tsv.20: name_tsv speaker "Speaker 1" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\12.tsv.21: name_tsv speaker "Speaker 2" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\12.tsv.22: name_tsv duration missmatch 0:04:46.180000 - 0:04:35.210000 != 0:00:10.220000 (diff: 0.75s) 
+iahlt-release-2023-06-06\transcription-5\iaa-2\12.tsv.22: name_tsv speaker "Speaker 2" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\12.tsv.23: name_tsv speaker "Speaker 1" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\12.tsv.24: name_tsv speaker "Speaker 2" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\12.tsv.25: name_tsv speaker "Speaker 1" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\12.tsv.26: name_tsv duration missmatch 0:05:23.030000 - 0:05:10.080000 != 0:00:12.200000 (diff: 0.75s) 
+iahlt-release-2023-06-06\transcription-5\iaa-2\12.tsv.26: name_tsv speaker "Speaker 2" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\12.tsv.27: name_tsv duration missmatch 0:05:31.160000 - 0:05:23.230000 != 0:00:07.180000 (diff: 0.75s) 
+iahlt-release-2023-06-06\transcription-5\iaa-2\12.tsv.27: name_tsv speaker "Speaker 2" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\12.tsv.28: name_tsv duration missmatch 0:05:39.050000 - 0:05:32.190000 != 0:00:06.110000 (diff: 0.75s) 
+iahlt-release-2023-06-06\transcription-5\iaa-2\12.tsv.28: name_tsv speaker "Speaker 2" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\12.tsv.29: name_tsv speaker "Speaker 2" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\12.tsv.30: name_tsv speaker "Speaker 1" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\12.tsv.31: name_tsv duration missmatch 0:06:23.080000 - 0:06:00.110000 != 0:00:22.220000 (diff: 0.75s) 
+iahlt-release-2023-06-06\transcription-5\iaa-2\12.tsv.31: name_tsv speaker "Speaker 2" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\12.tsv.32: name_tsv duration missmatch 0:06:37.060000 - 0:06:23.160000 != 0:00:13.150000 (diff: 0.75s) 
+iahlt-release-2023-06-06\transcription-5\iaa-2\12.tsv.32: name_tsv speaker "Speaker 1" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\12.tsv.33: name_tsv duration missmatch 0:06:48.020000 - 0:06:37.070000 != 0:00:10.200000 (diff: 0.75s) 
+iahlt-release-2023-06-06\transcription-5\iaa-2\12.tsv.33: name_tsv speaker "Speaker 2" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\12.tsv.34: name_tsv duration missmatch 0:06:57.020000 - 0:06:48.210000 != 0:00:08.060000 (diff: 0.75s) 
+iahlt-release-2023-06-06\transcription-5\iaa-2\12.tsv.34: name_tsv speaker "Speaker 2" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\12.tsv.35: name_tsv duration missmatch 0:07:03.050000 - 0:06:57.200000 != 0:00:05.100000 (diff: 0.75s) 
+iahlt-release-2023-06-06\transcription-5\iaa-2\12.tsv.35: name_tsv speaker "Speaker 1" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\12.tsv.36: name_tsv duration missmatch 0:07:19 - 0:07:02.200000 != 0:00:16.050000 (diff: 0.75s) 
+iahlt-release-2023-06-06\transcription-5\iaa-2\12.tsv.36: name_tsv speaker "Speaker 2" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\12.tsv.37: name_tsv speaker "Speaker 2" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\12.tsv.38: name_tsv duration missmatch 0:07:39.130000 - 0:07:26.160000 != 0:00:12.220000 (diff: 0.75s) 
+iahlt-release-2023-06-06\transcription-5\iaa-2\12.tsv.38: name_tsv speaker "Speaker 2" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\12.tsv.39: name_tsv speaker "Speaker 2" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\12.tsv.40: name_tsv duration missmatch 0:08:09.080000 - 0:08:02.220000 != 0:00:06.110000 (diff: 0.75s) 
+iahlt-release-2023-06-06\transcription-5\iaa-2\12.tsv.40: name_tsv speaker "Speaker 1" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\12.tsv.41: name_tsv speaker "Speaker 2" not in speakers
+iahlt-release-2023-06-06\transcription-5\iaa-2\13.meta.tsv Wrong duration format 00:03:45:08
