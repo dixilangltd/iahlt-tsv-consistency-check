@@ -11,6 +11,7 @@ The access to the data is limited to IAHLT organization members. If you have mem
 - [release-2022-12-01/transcription-3/](reports/release-2022-12-01/transcription-3/)
 - [release-2023-03-16/transcription-4/](reports/release-2023-03-16/transcription-4/)
 - [release-2023-06-06/transcription-5/](reports/release-2023-06-06/transcription-5/)
+- [release-2023-09-06/transcription-6/](reports/release-2023-09-06/transcription-6/)
 
 ## Usage
 
